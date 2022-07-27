@@ -1,0 +1,4 @@
+Необходимые модули:
+os,
+sqlite3,
+Dadata (pip install dadata)
